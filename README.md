@@ -11,7 +11,7 @@ Simulate a marketing scenario where we predict whether a user will make a purcha
 
 The goal is to **classify users** as likely to purchase (1) or not (0) using a feedforward neural network.
 
-## 🛠Technologies Used
+## Technologies Used
 - Python
 - NumPy, Pandas, Matplotlib
 - Scikit-learn
@@ -52,7 +52,7 @@ Sample plot of training history:
 
 ![Training History](training_plot.png)
 
-## 📁 How to Run
+## How to Run
 
 ```bash
 pip install -r requirements.txt
